@@ -1,0 +1,8 @@
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\p7aMTy5CiDjPcd5Qwt6.cs(8272,2): error SYSLIB1043: GeneratedRegexAttribute 方法必须是分部、无参数、非泛型、非抽象且返回 Regex。 (https://learn.microsoft.com/dotnet/fundamentals/syslib-diagnostics/syslib1043) [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\VpOKVDDGseoqNJw8N2a.cs(14,16): error CS1106: 扩展方法必须在非泛型静态类中定义 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+
+生成失败。
+    9 个警告
+    2 个错误
+
+已用时间 00:00:11.55

@@ -1,0 +1,12 @@
+using System;
+using Microsoft.UI.Xaml.Markup;
+
+// The original XamlMetaDataProvider is generated from .xaml files that are not part of the assembly.
+// Only its type identity is referenced by App.xaml.cs; a functional provider needs the XAML sources.
+[global::System.CodeDom.Compiler.GeneratedCode("Microsoft.UI.Xaml.Markup.Compiler", " 3.0.0.2606")]
+public sealed class XamlMetaDataProvider : IXamlMetadataProvider
+{
+    public IXamlType GetXamlType(Type type) => null;
+    public IXamlType GetXamlType(string fullName) => null;
+    public XmlnsDefinition[] GetXmlnsDefinitions() => Array.Empty<XmlnsDefinition>();
+}

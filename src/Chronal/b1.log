@@ -1,0 +1,32 @@
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\iv7VBsjI8muRaeK8cVn.cs(2239,241): error CS1026: 应输入 ) [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,103): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,105): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\iv7VBsjI8muRaeK8cVn.cs(2239,241): error CS1003: 语法错误，应输入“:” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,142): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\iv7VBsjI8muRaeK8cVn.cs(2239,241): error CS1525: 表达式项“;”无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,159): error CS1525: 表达式项“)”无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,160): error CS1026: 应输入 ) [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,160): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,200): error CS1002: 应输入 ; [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,200): error CS1513: 应输入 } [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,349): error CS1002: 应输入 ; [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpBuildEnvironmentService.cs(1498,349): error CS1513: 应输入 } [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,155): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,157): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,194): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,211): error CS1525: 表达式项“)”无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,213): error CS1525: 表达式项“string”无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,220): error CS1026: 应输入 ) [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,220): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,375): error CS1026: 应输入 ) [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,375): error CS1525: 表达式项“,”无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,375): error CS1002: 应输入 ; [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,375): error CS1513: 应输入 } [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,396): error CS1002: 应输入 ; [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\McpLocalLibraryService.cs(2190,396): error CS1513: 应输入 } [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+
+生成失败。
+    8 个警告
+    26 个错误
+
+已用时间 00:00:01.47

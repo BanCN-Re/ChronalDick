@@ -1,0 +1,7 @@
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\fCh7uDxLklaY8sQGcF.cs(1792,94): error CS1061: “KeyValuePair<int, VW922EHC2yTH7A8aDT>”未包含“VF0PkkeoL”的定义，并且找不到可接受第一个“KeyValuePair<int, VW922EHC2yTH7A8aDT>”类型参数的可访问扩展方法“VF0PkkeoL”(是否缺少 using 指令或程序集引用?) [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+
+生成失败。
+    661 个警告
+    1 个错误
+
+已用时间 00:00:08.29

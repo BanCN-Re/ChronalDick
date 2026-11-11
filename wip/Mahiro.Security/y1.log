@@ -1,0 +1,25 @@
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\LFHd1ojfYcRKGDVUDAUb.cs(1218,2): error CS1513: 应输入 } [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,4): error CS1519: 类、记录、结构或接口成员声明中的标记“)”无效 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,126): error CS1031: 应输入类型 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,126): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,135): error CS1031: 应输入类型 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,136): error CS8124: 元组必须包含至少两个元素。 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,136): error CS1026: 应输入 ) [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,204): error CS8124: 元组必须包含至少两个元素。 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,205): error CS1519: 类、记录、结构或接口成员声明中的标记“1”无效 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,212): error CS1031: 应输入类型 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,242): error CS1031: 应输入类型 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,242): error CS1003: 语法错误，应输入“,” [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,246): error CS8124: 元组必须包含至少两个元素。 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,247): error CS1519: 类、记录、结构或接口成员声明中的标记“default”无效 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,266): error CS8124: 元组必须包含至少两个元素。 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10609,267): error CS1519: 类、记录、结构或接口成员声明中的标记“)”无效 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10610,68): error CS8124: 元组必须包含至少两个元素。 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10610,76): error CS8124: 元组必须包含至少两个元素。 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\v5OiSQSzC8GipXkQ3VG.cs(10611,2): error CS1519: 类、记录、结构或接口成员声明中的标记“}”无效 [D:\Work\deobf\Chronal-crk-release\full\src-mahiro7\Mahiro.Security\Mahiro.Security.csproj]
+
+生成失败。
+    8 个警告
+    19 个错误
+
+已用时间 00:00:01.15

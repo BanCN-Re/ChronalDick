@@ -1,0 +1,464 @@
+file	line	status	id_or_expr	plaintext
+App.cs	75	ok	0x1CA4	java-native
+App.cs	82	ok	0x1CBE	startup
+App.cs	218	ok	0x64C	app
+App.cs	221	ok	0x656	进程启动 pid=
+App.cs	223	ok	0x66C	 argCount=
+App.cs	251	ok	0x684	winui-unhandled
+App.cs	252	ok	0x6A6	ui
+App.cs	252	ok	0x6AE	UI 线程未捕获异常
+App.cs	253	ok	0x6C6	crash
+App.cs	265	ok	0x6D4	unobserved-task
+App.cs	266	ok	0x6F6	task
+App.cs	266	ok	0x702	后台任务未观察异常
+App.cs	268	ok	0x6C6	crash
+App.cs	280	ok	0x718	appdomain-unhandled
+App.cs	281	ok	0x742	domain
+App.cs	281	ok	0x752	AppDomain 未处理异常
+App.cs	282	ok	0x6C6	crash
+App.cs	310	ok	0x1CA4	java-native
+App.cs	335	ok	0x774	未检测到
+App.cs	336	ok	0x780	dotnet-runtime
+App.cs	339	ok	0x7A0	启动被阻止 detected=
+App.cs	341	ok	0x7C2	 required=
+App.cs	360	ok	0x7DA	Chronal.Main
+App.cs	390	ok	0x1CBE	startup
+App.cs	409	ok	0x7F6	protocol
+App.cs	412	ok	0x80A	收到单实例激活 kind=
+App.cs	471	ok	0x828	主窗口尚未准备好接收协议激活
+App.cs	514	ok	0x848	ms-appx:///App.xaml
+AppShell.cs	77	ok	0x1CA4	java-native
+AppShell.cs	86	ok	0x1CA4	java-native
+AppShell.cs	115	ok	0x880	登录已过期，请重新登录
+AppShell.cs	196	ok	0x1CD0	取消
+AppShell.cs	282	ok	0x1CD8	shutdown
+AppShell.cs	470	ok	0x1CEC	RunAsync
+AppShell.cs	470	ok	0x1D00	D:\Dev\winui\ACCOUNT\Mahiro-Account\AppShell.cs
+AppShell.cs	674	ok	0x1CA4	java-native
+AppShell.cs	745	ok	0x872	login
+AppShell.cs	772	ok	0x880	登录已过期，请重新登录
+AppShell.cs	777	ok	0x880	登录已过期，请重新登录
+AppShell.cs	895	ok	0x6A6	ui
+AppShell.cs	902	ok	0x6A6	ui
+AppShell.cs	909	ok	0x6A6	ui
+AppShell.cs	909	ok	0x89A	：
+AppShell.cs	916	ok	0x6A6	ui
+AppShell.cs	923	ok	0x8A0	操作失败，服务端未返回错误详情
+AppShell.cs	924	ok	0x6A6	ui
+AppShell.cs	933	ok	0x8C2	MA-PC-
+AppShell.cs	963	ok	0x8D2	exception
+AppShell.cs	964	ok	0x8E8	ui-exception
+AppShell.cs	982	ok	0x904	操作失败（
+AppShell.cs	982	ok	0x912	）
+AppShell.cs	990	ok	0x918	0x
+AppShell.cs	991	ok	0x920	X8
+AppShell.cs	995	ok	0x928	（HRESULT 
+AppShell.cs	995	ok	0x912	）
+BFW7DwZLAOwBnfcMB57.cs	268	ok	0x2E3A	选择包含 Minecraft.Windows.exe 的经典版客户端目录
+BFW7DwZLAOwBnfcMB57.cs	2197	ok	0x166C	大厅登录链路已就绪
+BFW7DwZLAOwBnfcMB57.cs	2271	ok	0x16CE	客户端状态
+BFW7DwZLAOwBnfcMB57.cs	2286	ok	0x15E2	尚未登录游戏账号，请先在经典版账号配置中建立会话
+BFW7DwZLAOwBnfcMB57.cs	2292	ok	0xD20	 · 
+BFW7DwZLAOwBnfcMB57.cs	2294	ok	0x11E8	 · UID 
+BFW7DwZLAOwBnfcMB57.cs	2303	ok	0x1616	尚未选择客户端
+BFW7DwZLAOwBnfcMB57.cs	2307	ok	0x1628	可选择现有安装目录，或下载官方客户端
+BFW7DwZLAOwBnfcMB57.cs	2323	ok	0x16FE	游戏 PID：
+BFW7DwZLAOwBnfcMB57.cs	2329	ok	0x16DC	没有由经典版入口启动的游戏进程
+BFW7DwZLAOwBnfcMB57.cs	2373	ok	0x1698	启动未完成
+BFW7DwZLAOwBnfcMB57.cs	2377	ok	0x16C0	游戏已退出
+BFW7DwZLAOwBnfcMB57.cs	2389	ok	0x16A6	客户端凭据交付尚未就绪
+BFW7DwZLAOwBnfcMB57.cs	2401	ok	0x1650	正在启动
+BFW7DwZLAOwBnfcMB57.cs	2405	ok	0x1682	检测到官方平台依赖
+BFW7DwZLAOwBnfcMB57.cs	2409	ok	0x165C	等待游戏登录
+BFW7DwZLAOwBnfcMB57.cs	2679	ok	0x1710	classic_downloads
+BFW7DwZLAOwBnfcMB57.cs	2719	ok	0x1736	services
+BFW7DwZLAOwBnfcMB57.cs	2747	ok	0x174A	classic_account
+BFW7DwZLAOwBnfcMB57.cs	2836	ok	0x176C	ms-appx:///Features/ClassicLaunch/Views/ClassicLaunchPage.xaml
+BpOjxVLPwPUO93lZkbW.cs	198	ok	0x3038	历史账号没有有效的 SAuth
+BpOjxVLPwPUO93lZkbW.cs	1043	ok	0x2D66	经典版游戏会话已建立
+BpOjxVLPwPUO93lZkbW.cs	1154	ok	0x2D7E	按要求发送短信后重试登录；验证通过前不会建立游戏会话。
+BpOjxVLPwPUO93lZkbW.cs	2158	ok	0x2DB8	请先生成或粘贴 SAuth，不能在未登录游戏账号时启动
+BpOjxVLPwPUO93lZkbW.cs	3223	ok	0x1302	经典版启动：
+BpOjxVLPwPUO93lZkbW.cs	3223	ok	0xD20	 · 
+BpOjxVLPwPUO93lZkbW.cs	3584	ok	0x11D6	未登录游戏账号
+BpOjxVLPwPUO93lZkbW.cs	3590	ok	0xD20	 · 
+BpOjxVLPwPUO93lZkbW.cs	3592	ok	0x11E8	 · UID 
+BpOjxVLPwPUO93lZkbW.cs	4583	ok	0x1244	将使用输入框中粘贴的凭证
+BpOjxVLPwPUO93lZkbW.cs	4583	ok	0x1218	将使用当前转 SAuth 工具生成的凭证
+BpOjxVLPwPUO93lZkbW.cs	4583	ok	0x11FA	当前没有可用的 SAuth
+BpOjxVLPwPUO93lZkbW.cs	4672	ok	0x1260	classic_launch
+BpOjxVLPwPUO93lZkbW.cs	4714	ok	0x1280	ms-appx:///Features/ClassicLaunch/Views/ClassicAccountPage.xaml
+BpOjxVLPwPUO93lZkbW.cs	5116	ok	0x1302	经典版启动：
+BpOjxVLPwPUO93lZkbW.cs	5116	ok	0xD20	 · 
+CaptchaOcrService.cs	434	ok	0x2F5E	 
+CaptchaOcrService.cs	484	ok	0x2F64	4399 OCR 配置内容无效
+CaptchaOcrService.cs	763	ok	0x2FC8	4399 OCR 输出类型无效
+CaptchaOcrService.cs	814	ok	0x2FAA	4399 OCR 输出缺失
+CaptchaOcrService.cs	895	ok	0x2F86	4399 OCR 模型尚未初始化
+CaptchaOcrService.cs	1601	ok	0x3016	验证码像素数据长度无效
+CaptchaOcrService.cs	1728	ok	0x3000	验证码图片尺寸无效
+CaptchaOcrService.cs	1923	ok	0x2FEA	验证码图片大小无效
+CaptchaOcrService.cs	2898	ok	0x1862	4399 OCR 配置文件格式无效
+CaptchaOcrService.cs	2933	ok	0x17EC	OCR/4399ocr.json
+CaptchaOcrService.cs	2934	ok	0x1810	OCR/4399ocr.onnx
+CaptchaOcrService.cs	2937	ok	0x1834	未找到 4399 验证码 OCR 模型文件
+CaptchaOcrService.cs	3119	ok	0x18B2	4399 OCR 模型输入与配置不一致
+CaptchaOcrService.cs	3171	ok	0x1888	4399 OCR 模型输入输出数量无效
+CaptchaOcrService.cs	3655	ok	0x18DC	4399 OCR 输出字符索引无效
+CaptchaOcrService.cs	3853	ok	0x1902	4399 OCR 输出维度无效
+CaptchaOcrService.cs	3953	ok	0x1924	4399 OCR 输出字符维度无效
+CaptchaOcrService.cs	3990	ok	0x194A	4399 OCR 输出批次维度无效
+G7Gd8izlVgAoTnpooe.cs	538	ok	0x582	png-crc-invalid
+G7Gd8izlVgAoTnpooe.cs	565	ok	0x4BE	89-50-4E-47-0D-0A-1A-0A
+G7Gd8izlVgAoTnpooe.cs	586	ok	0x53C	IHDR
+G7Gd8izlVgAoTnpooe.cs	593	ok	0x51E	png-truncated
+G7Gd8izlVgAoTnpooe.cs	597	ok	0x5B0	png-trailing-bytes
+G7Gd8izlVgAoTnpooe.cs	625	ok	0x548	png-structure-invalid
+G7Gd8izlVgAoTnpooe.cs	659	ok	0x53C	IHDR
+G7Gd8izlVgAoTnpooe.cs	690	ok	0x51E	png-truncated
+G7Gd8izlVgAoTnpooe.cs	713	ok	0x51E	png-truncated
+G7Gd8izlVgAoTnpooe.cs	717	ok	0x5FC	png-check-chunk-limit
+G7Gd8izlVgAoTnpooe.cs	765	ok	0x548	png-structure-invalid
+G7Gd8izlVgAoTnpooe.cs	801	ok	0x548	png-structure-invalid
+G7Gd8izlVgAoTnpooe.cs	814	ok	0x576	IDAT
+G7Gd8izlVgAoTnpooe.cs	826	ok	0x5D8	png-chunks-valid
+G7Gd8izlVgAoTnpooe.cs	857	ok	0x5A4	IEND
+G7Gd8izlVgAoTnpooe.cs	874	ok	0x51E	png-truncated
+G7Gd8izlVgAoTnpooe.cs	891	ok	0x4F0	png-signature-invalid
+G7Gd8izlVgAoTnpooe.cs	909	ok	0x492	png-check-size-limit
+G7Gd8izlVgAoTnpooe.cs	977	ok	0x62A	png-read-error:
+KumxrgLRaOTl0OPxUyN.cs	309	ok	0x1736	services
+KumxrgLRaOTl0OPxUyN.cs	368	ok	0x1260	classic_launch
+KumxrgLRaOTl0OPxUyN.cs	473	ok	0x2B7E	frozen
+KumxrgLRaOTl0OPxUyN.cs	537	ok	0x2C06	需要订阅经典版启动服务
+KumxrgLRaOTl0OPxUyN.cs	571	ok	0x2C20	经典版启动订阅已冻结
+KumxrgLRaOTl0OPxUyN.cs	574	ok	0x2C6A	请前往服务订阅解冻后再使用服务
+KumxrgLRaOTl0OPxUyN.cs	574	ok	0x2C38	你的时长已到期或未订阅，请前往服务订阅购买服务
+KumxrgLRaOTl0OPxUyN.cs	574	ok	0x2C8C	前往服务订阅
+KumxrgLRaOTl0OPxUyN.cs	628	ok	0x2C9C	EnsureAsync
+KumxrgLRaOTl0OPxUyN.cs	628	ok	0x2CB6	D:\Dev\winui\ACCOUNT\Mahiro-Account\Features\ClassicLaunch\ClassicLaunchAccessGuard.cs
+Login4399CredentialGenerator.cs	97	ok	0x1A78	密码
+Login4399CredentialGenerator.cs	97	ok	0x1A80	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789._@-
+Login4399CredentialGenerator.cs	105	ok	0x19F0	账号
+Login4399CredentialGenerator.cs	105	ok	0x19F8	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Login4399CredentialGenerator.cs	123	ok	0x1B08	abcdefghijklmnopqrstuvwxyz0123456789
+Login4399CredentialGenerator.cs	124	ok	0x1B54	abcdefghijkmnopqrstuvwxyz
+Login4399CredentialGenerator.cs	124	ok	0x1B8A	23456789
+Login4399CredentialGenerator.cs	124	ok	0x1B9E	ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz23456789
+Login4399CredentialGenerator.cs	210	ok	0x1C14	前缀格式无效
+Login4399CredentialGenerator.cs	210	ok	0x1C24	prefix
+Login4399GeneratedCredentials.cs	197	ok	0x19AE	 { 
+Login4399GeneratedCredentials.cs	205	ok	0x1970	Login4399GeneratedCredentials
+Login4399GeneratedCredentials.cs	263	ok	0x19D2	, Password = 
+Login4399GeneratedCredentials.cs	281	ok	0x19B8	Username = 
+MainWindow.cs	218	ok	0xA36	Java
+MainWindow.cs	218	ok	0x1D62	应用恢复后刷新 Java 会话失败
+MainWindow.cs	346	ok	0x7F6	protocol
+MainWindow.cs	346	ok	0x93E	协议激活时前置主窗口失败
+MainWindow.cs	424	ok	0x95A	Assets/favicon.ico
+MainWindow.cs	563	ok	0x982	InstallPersonIdentityCertificate
+MainWindow.cs	563	ok	0x9C6	D:\Dev\winui\ACCOUNT\Mahiro-Account\MainWindow.xaml.cs
+MainWindow.cs	577	ok	0xA36	Java
+MainWindow.cs	577	ok	0xA42	无法订阅系统挂起通知，将保留定时会话刷新
+MainWindow.cs	605	ok	0xA36	Java
+MainWindow.cs	605	ok	0xA6E	处理系统挂起状态失败
+MainWindow.cs	662	ok	0xA86	基岩版仍在运行，Chronal 已最小化并继续保持登录
+MainWindow.cs	666	ok	0xAC0	MinimizeForRunningBedrock
+MainWindow.cs	666	ok	0x9C6	D:\Dev\winui\ACCOUNT\Mahiro-Account\MainWindow.xaml.cs
+MainWindow.cs	695	ok	0xAF6	window-closed
+MainWindow.cs	744	ok	0xB14	ms-appx:///MainWindow.xaml
+McpBuildEnvironmentService.cs	321	ok	0x2382	客户端未包含 MCP 构建环境压缩包，请安装带构建环境的完整版本
+McpBuildEnvironmentService.cs	364	ok	0x23E4	.build-env-
+McpBuildEnvironmentService.cs	366	ok	0x1DD6	N
+McpBuildEnvironmentService.cs	375	ok	0x23C6	无法确定 MCP 环境目录
+McpBuildEnvironmentService.cs	433	ok	0x23FE	正在解压内置 Python 2.7 构建环境
+McpBuildEnvironmentService.cs	502	ok	0x242E	构建环境压缩包中没有 python.exe
+McpBuildEnvironmentService.cs	503	ok	0xE02	mcp-package-tool.exe
+McpBuildEnvironmentService.cs	505	ok	0x245C	构建环境压缩包中没有 mcp-package-tool.exe
+McpBuildEnvironmentService.cs	517	ok	0x249E	构建环境部署后找不到 python.exe
+McpBuildEnvironmentService.cs	526	ok	0x24CC	MCP 构建环境已部署
+McpBuildEnvironmentService.cs	803	ok	0xD9A	Mcp
+McpBuildEnvironmentService.cs	803	ok	0xDA4	BuildEnvironment
+McpBuildEnvironmentService.cs	812	ok	0xDC8	python.exe
+McpBuildEnvironmentService.cs	844	ok	0xDF0	go
+McpBuildEnvironmentService.cs	844	ok	0xDF8	bin
+McpBuildEnvironmentService.cs	844	ok	0xDE0	go.exe
+McpBuildEnvironmentService.cs	846	ok	0xDE0	go.exe
+McpBuildEnvironmentService.cs	848	ok	0xDE0	go.exe
+McpBuildEnvironmentService.cs	859	ok	0xDF0	go
+McpBuildEnvironmentService.cs	859	ok	0xDF8	bin
+McpBuildEnvironmentService.cs	859	ok	0xDE0	go.exe
+McpBuildEnvironmentService.cs	883	ok	0xE02	mcp-package-tool.exe
+McpBuildEnvironmentService.cs	892	ok	0xE2E	Features/McpStudio/Runtime/mcp-build-env.zip
+McpBuildEnvironmentService.cs	1348	ok	0xE8A	构建环境压缩包包含越权路径
+McpBuildEnvironmentService.cs	1528	ok	0xDC8	python.exe
+McpBuildEnvironmentService.cs	1538	ok	0xDC8	python.exe
+McpBuilderService.cs	297	ok	0x259A	Features/McpStudio/Builder/PackageTool
+McpBuilderService.cs	303	ok	0x252A	.build-
+McpBuilderService.cs	305	ok	0x1DD6	N
+McpBuilderService.cs	305	ok	0x2376	.tmp
+McpBuilderService.cs	314	ok	0x253C	Features/McpStudio/Builder/compile_sources.py
+McpBuilderService.cs	346	ok	0x25EA	缺少 Python 编译脚本
+McpBuilderService.cs	348	ok	0x24E6	输出文件已存在，请选择其他路径；构建器不会覆盖已有 MCP 文件
+McpBuilderService.cs	350	ok	0x260A	缺少 MCP 打包工具目录：
+McpBuilderService.cs	354	ok	0x262A	chronal-mcp-
+McpBuilderService.cs	356	ok	0x1DD6	N
+McpBuilderService.cs	639	ok	0x271C	验证完成：
+McpBuilderService.cs	641	ok	0x272A	 个条目，
+McpBuilderService.cs	643	ok	0x2738	 字节，SHA-256 
+McpBuilderService.cs	660	ok	0x2666	阶段 2/4：使用 Python 2.7 编译源码
+McpBuilderService.cs	671	ok	0x269C	阶段 3/4：生成 MCPK 容器
+McpBuilderService.cs	688	ok	0x26EA	阶段 4/4：回读验证与 SHA-256 校验
+McpBuilderService.cs	713	ok	0x2646	阶段 1/4：检查源码与入口
+McpBuilderService.cs	718	ok	0x26E2	）：
+McpBuilderService.cs	728	ok	0x26C2	MCPK 打包失败（退出码 
+McpBuilderService.cs	1292	ok	0xDF0	go
+McpBuilderService.cs	1332	ok	0xE02	mcp-package-tool.exe
+McpBuilderService.cs	1398	ok	0x2754	--compiled-source-dir
+McpBuilderService.cs	1400	ok	0x2782	--output
+McpBuilderService.cs	1402	ok	0x2796	--package-id
+McpBuilderService.cs	1404	ok	0x27B2	--entry-module
+McpBuilderService.cs	1434	ok	0xDE0	go.exe
+McpBuilderService.cs	1443	ok	0x27D2	run
+McpBuilderService.cs	1444	ok	0x221A	.
+McpBuilderService.cs	1445	ok	0x2754	--compiled-source-dir
+McpBuilderService.cs	1447	ok	0x2782	--output
+McpBuilderService.cs	1449	ok	0x2796	--package-id
+McpBuilderService.cs	1451	ok	0x27B2	--entry-module
+McpBuilderService.cs	1853	ok	0xF28	入口必须是 <包ID>.modMain
+McpBuilderService.cs	1853	ok	0xEA8	options
+McpBuilderService.cs	1867	ok	0xF5E	输出文件必须使用 .mcp 扩展名
+McpBuilderService.cs	1867	ok	0xEA8	options
+McpBuilderService.cs	1869	ok	0xEBA	源码目录不存在：
+McpBuilderService.cs	1871	ok	0xEA8	options
+McpBuilderService.cs	1882	ok	0xF52	.mcp
+McpBuilderService.cs	1915	ok	0xECE	包 ID 只能包含 ASCII 字母、数字和下划线，长度不超过 32
+McpBuilderService.cs	1915	ok	0xEA8	options
+McpBuilderService.cs	1988	ok	0xFA2	*.py
+McpBuilderService.cs	1991	ok	0xFAE	源码目录中没有 .py 文件
+McpBuilderService.cs	2023	ok	0xFCE	源码总大小不能超过 50 MiB
+McpBuilderService.cs	2029	ok	0xF84	.py
+McpBuilderService.cs	2059	ok	0xF8E	找不到入口源码：
+McpBuilderService.cs	2059	ok	0xF84	.py
+McpBuilderService.cs	2063	ok	0xFF2	源码目录必须包含包目录：
+McpBuilderService.cs	2214	ok	0x100E	^[A-Za-z_][A-Za-z0-9_]*$
+McpBuilderService.cs	2229	ok	0x1042	^(?<package>[A-Za-z_][A-Za-z0-9_]*(?:\.[A-Za-z_][A-Za-z0-9_]*)*)\.modMain$
+McpCloudSyncService.cs	749	ok	0x1DB0	module
+McpCloudSyncService.cs	858	ok	0xD4E	cloud-
+McpCloudSyncService.cs	860	ok	0x1DC0	-
+McpCloudSyncService.cs	862	ok	0x1DC0	-
+McpCloudSyncService.cs	864	ok	0xF52	.mcp
+McpCloudSyncService.cs	881	ok	0x1DD6	N
+McpCloudSyncService.cs	882	ok	0x1DDC	.part
+McpCloudSyncService.cs	893	ok	0xD4E	cloud-
+McpCloudSyncService.cs	895	ok	0x1DC6	-*.mcp
+McpCloudSyncService.cs	908	ok	0xD4E	cloud-
+McpCloudSyncService.cs	910	ok	0x1DC0	-
+McpCloudSyncService.cs	911	ok	0x1DD6	N
+McpCloudSyncService.cs	912	ok	0x1DC0	-
+McpCloudSyncService.cs	914	ok	0xF52	.mcp
+McpCloudSyncService.cs	1124	ok	0x1D88	云端文件信息无效或超过 50 MiB
+McpCloudSyncService.cs	1350	ok	0x1E12	下载分块大小无效
+McpCloudSyncService.cs	1360	ok	0x1DEA	下载分块的文件标识、位置或大小不一致
+McpCloudSyncService.cs	1449	ok	0x1E26	下载分块 SHA-256 校验失败
+McpCloudSyncService.cs	1563	ok	0x1E4C	MCP 文件 SHA-256 校验失败
+McpCloudSyncService.cs	2808	ok	0x1E76	.staging
+McpCloudSyncService.cs	3033	ok	0x1E8A	正在同步：
+McpCloudSyncService.cs	3070	ok	0x89A	：
+McpFileMetadata.cs	151	ok	0xB4C	^[A-Za-z_][A-Za-z0-9_]{0,31}$
+McpFileMetadata.cs	160	ok	0xB8A	.modMain
+McpInjectionService.cs	254	ok	0x1F5E	Submission
+McpInjectionService.cs	260	ok	0x19AE	 { 
+McpInjectionService.cs	378	ok	0x1F92	, StartedAt = 
+McpInjectionService.cs	384	ok	0x1F76	ProcessId = 
+McpInjectionService.cs	399	ok	0x1FB2	, EntryModule = 
+McpInjectionService.cs	1082	ok	0x1FFC	MCP 注入要求 x64 客户端
+McpInjectionService.cs	1144	ok	0x20C0	Minecraft.Windows.exe
+McpInjectionService.cs	1258	ok	0x2020	MCP 文件不存在
+McpInjectionService.cs	1295	ok	0x20EE	未找到 Minecraft.Windows.exe，请先进入已启用 MCP 的服务器
+McpInjectionService.cs	1302	ok	0x205E	管理器地址必须是十六进制指针，例如 0x12345678
+McpInjectionService.cs	1340	ok	0x209A	Minecraft.Windows
+McpInjectionService.cs	1368	ok	0x918	0x
+McpInjectionService.cs	1376	ok	0x1FD6	MCP 注入仅支持 Windows
+McpInjectionService.cs	1378	ok	0x204E	入口模块无效
+McpInjectionService.cs	1380	ok	0x2036	文件路径包含无效字符
+McpInjectionService.cs	1411	ok	0x21F2	GrapeNEL.McpHost5.
+McpInjectionService.cs	1426	ok	0x21D0	缺少 MCP Host DLL
+McpInjectionService.cs	1442	ok	0x2146	目标游戏进程不是 x64，已停止注入
+McpInjectionService.cs	1444	ok	0x216E	Features/McpStudio/Native/GrapeNelmcpHost_5.dll
+McpInjectionService.cs	1448	ok	0x221A	.
+McpInjectionService.cs	1675	ok	0x13A4	
+
+McpInjectionService.cs	1692	ok	0x2240	 
+McpInjectionService.cs	1696	ok	0x2220	ACTIVATE 0x
+McpInjectionService.cs	1700	ok	0x2240	 
+McpInjectionService.cs	1804	ok	0x223A	X
+McpInjectionService.cs	2482	ok	0xBF8	kernel32.dll
+McpInjectionService.cs	2482	ok	0xC14	LoadLibraryW
+McpInjectionService.cs	2500	id-0xFFFFF3A4-not-in-tsv	(-662046383) ^ 0x161ACB39 ^ _Module__71380637_e598_4a57_acca_ae77afe4f	
+McpInjectionService.cs	2519	ok	0xBCA	WriteProcessMemory 失败
+McpInjectionService.cs	2521	ok	0xC30	LoadLibraryW 地址获取失败
+McpInjectionService.cs	2570	ok	0xC88	Host DLL 加载超时
+McpInjectionService.cs	2647	ok	0xBA4	VirtualAllocEx 失败
+McpInjectionService.cs	2662	ok	0xB9E	 
+McpLocalFile.cs	209	ok	0xCCC	未注入
+McpLocalFile.cs	221	ok	0xCD6	已发送，等待游戏确认
+McpLocalFile.cs	258	ok	0xCEE	注入
+McpLocalFile.cs	270	ok	0xCF6	重新发送
+McpLocalFile.cs	352	ok	0xD02	入口未识别，请填写备用入口
+McpLocalFile.cs	409	ok	0xD2A	yyyy-MM-dd HH:mm
+McpLocalFile.cs	421	ok	0xD20	 · 
+McpLocalFile.cs	425	ok	0xD20	 · 
+McpLocalFile.cs	452	ok	0xD4E	cloud-
+McpLocalFile.cs	452	ok	0xD6A	云端同步
+McpLocalFile.cs	452	ok	0xD5E	本地文件
+McpLocalFile.cs	502	ok	0xD82	 KiB
+McpLocalFile.cs	529	ok	0xD8E	 MiB
+McpLocalFile.cs	539	ok	0xD76	0.##
+McpLocalFile.cs	564	ok	0xD76	0.##
+McpLocalLibraryService.cs	296	ok	0x2288	*.mcp
+McpLocalLibraryService.cs	296	ok	0x2288	*.mcp
+McpLocalLibraryService.cs	1029	ok	0x22EA	复制后的 MCP 文件大小无效
+McpLocalLibraryService.cs	1212	ok	0x22B0	MCP 文件大小必须在 1 字节到 50 MiB 之间
+McpLocalLibraryService.cs	1276	ok	0x2296	只支持 .mcp 文件
+McpLocalLibraryService.cs	1294	ok	0x1DC0	-
+McpLocalLibraryService.cs	1295	ok	0x1DD6	N
+McpLocalLibraryService.cs	1296	ok	0xF52	.mcp
+McpLocalLibraryService.cs	1390	ok	0x1DD6	N
+McpLocalLibraryService.cs	1390	ok	0x1DDC	.part
+McpLocalLibraryService.cs	1441	ok	0xF52	.mcp
+McpLocalLibraryService.cs	1472	ok	0x1E76	.staging
+McpLocalLibraryService.cs	2101	ok	0x2332	只能移除文件库中的 MCP 文件
+McpLocalLibraryService.cs	2107	ok	0x230C	只能移除 MCP 专用目录中的文件
+McpLocalLibraryService.cs	2192	ok	0xF52	.mcp
+McpLocalLibraryService.cs	2379	ok	0xCA6	Pending
+McpLocalLibraryService.cs	2388	ok	0xCB8	Injected
+McpPackageValidator.cs	352	ok	0x27DC	McpPackageInfo
+McpPackageValidator.cs	362	ok	0x19AE	 { 
+McpPackageValidator.cs	430	ok	0x281A	, SizeBytes = 
+McpPackageValidator.cs	440	ok	0x1FB2	, EntryModule = 
+McpPackageValidator.cs	461	ok	0x27FC	EntryCount = 
+McpPackageValidator.cs	473	ok	0x283A	, Sha256 = 
+McpPackageValidator.cs	787	ok	0x1126	MCPK 目录表损坏
+McpPackageValidator.cs	794	ok	0x115A	MCPK 数据区范围无效
+McpPackageValidator.cs	796	ok	0x1176	MCPK 不包含任何 Python 模块
+McpPackageValidator.cs	857	ok	0x10DA	构建输出不存在
+McpPackageValidator.cs	882	ok	0x11C2	入口模块不能为空
+McpPackageValidator.cs	946	ok	0x10EC	输出不是有效的 MCPK 文件
+McpPackageValidator.cs	956	ok	0x11A2	MCPK 包 ID 不匹配：
+McpPackageValidator.cs	975	ok	0x113E	MCPK 文件表范围无效
+McpPackageValidator.cs	1055	ok	0x110E	MCPK 表偏移无效
+McpPythonCompiler.cs	232	ok	0x2854	ProcessResult
+McpPythonCompiler.cs	249	ok	0x19AE	 { 
+McpPythonCompiler.cs	308	ok	0x288C	, Output = 
+McpPythonCompiler.cs	327	ok	0x2872	ExitCode = 
+McpPythonCompiler.cs	624	ok	0x2A9A	Python 编译失败（退出码 
+McpPythonCompiler.cs	681	ok	0x28D0	Python 编译脚本不存在
+McpPythonCompiler.cs	699	ok	0x26E2	）：
+McpPythonCompiler.cs	730	ok	0x28A6	Python 2.7 可执行文件不存在
+McpPythonCompiler.cs	783	ok	0x29DA	2.7
+McpPythonCompiler.cs	795	ok	0x29E4	必须使用 Python 2.7，当前解释器检测失败：
+McpPythonCompiler.cs	811	ok	0xEBA	源码目录不存在：
+McpPythonCompiler.cs	813	ok	0x2A2C	MCP 构建要求 x64 Python 2.7
+McpPythonCompiler.cs	829	ok	0x2A1C	64-bit
+McpPythonCompiler.cs	837	ok	0x2A5E	--source-root
+McpPythonCompiler.cs	839	ok	0x2A7C	--output-root
+McpPythonCompiler.cs	857	ok	0x28F0	-c
+McpPythonCompiler.cs	858	ok	0x28F8	import struct,sys; print('%d.%d %d-bit' % (sys.version_info[0], sys.version_info[1], struct.calcsize('P') * 8))
+McpPythonCompiler.cs	1385	ok	0x2ABE	无法启动构建工具：
+McpWorkspaceSettings.cs	183	ok	0x2356	workspace.json
+McpWorkspaceSettings.cs	699	ok	0x2356	workspace.json
+McpWorkspaceSettings.cs	713	ok	0x221A	.
+McpWorkspaceSettings.cs	715	ok	0x1DD6	N
+McpWorkspaceSettings.cs	715	ok	0x2376	.tmp
+PublishedFileResolver.cs	156	ok	0x3030	..
+PublishedFileResolver.cs	175	ok	0x221A	.
+PublishedFileResolver.cs	252	ok	0x1C34	relativePath
+PublishedFileResolver.cs	302	ok	0x1C34	relativePath
+PublishedFileResolver.cs	479	ok	0x1C8A	mappings
+PublishedFileResolver.cs	486	ok	0x1C7A	schema
+PublishedFileResolver.cs	736	ok	0x1C50	.chronal-files.json
+PublishedFileResolver.cs	869	ok	0x1C9E	/
+PublishedFileResolver.cs	1087	ok	0x3030	..
+PublishedFileResolver.cs	1106	ok	0x221A	.
+UTceUuLofwXEp4GdC3ht.cs	16580	ok	0x30D2	H
+UTceUuLofwXEp4GdC3ht.cs	32485	ok	0x30D8	*
+UTceUuLofwXEp4GdC3ht.cs	32487	ok	0x30D8	*
+UTceUuLofwXEp4GdC3ht.cs	32831	ok	0x30D8	*
+UTceUuLofwXEp4GdC3ht.cs	32833	ok	0x30D8	*
+__f__AnonymousType0_2.cs	134	ok	0x0	{{ type = {0}, requestId = {1} }}
+__f__AnonymousType1_2.cs	132	ok	0x46	{{ type = {0}, enabled = {1} }}
+__f__AnonymousType2_2.cs	140	ok	0x88	{{ type = {0}, name = {1} }}
+__f__AnonymousType3_1.cs	118	ok	0xC4	{{ type = {0} }}
+__f__AnonymousType4_3.cs	153	ok	0xE8	{{ type = {0}, requestId = {1}, payload = {2} }}
+__f__AnonymousType5_6.cs	219	ok	0x14C	{{ itemId = {0}, name = {1}, geometryFiles = {2}, animationFiles = {3}, particleFiles = {4}, textures = {5} }}
+__f__AnonymousType6_2.cs	134	ok	0x22C	{{ path = {0}, content = {1} }}
+__f__AnonymousType7_3.cs	150	ok	0x26E	{{ path = {0}, mimeType = {1}, data = {2} }}
+__f__AnonymousType8_3.cs	159	ok	0x2CA	{{ type = {0}, data = {1}, name = {2} }}
+__f__AnonymousType9_2.cs	130	ok	0x31E	{{ File = {0}, Size = {1} }}
+fCh7uDxLklaY8sQGcF.cs	853	ok	0x35A	o
+fCh7uDxLklaY8sQGcF.cs	987	ok	0x360	:
+fCh7uDxLklaY8sQGcF.cs	1792	ok	0x370	tcp
+fCh7uDxLklaY8sQGcF.cs	1792	ok	0x366	udp
+fCh7uDxLklaY8sQGcF.cs	1792	ok	0x360	:
+fCh7uDxLklaY8sQGcF.cs	2199	ok	0x37A	unknown
+fCh7uDxLklaY8sQGcF.cs	2200	ok	0x38C	closed
+fCh7uDxLklaY8sQGcF.cs	2201	ok	0x39C	listen
+fCh7uDxLklaY8sQGcF.cs	2202	ok	0x3AC	syn-sent
+fCh7uDxLklaY8sQGcF.cs	2203	ok	0x3C0	syn-received
+fCh7uDxLklaY8sQGcF.cs	2204	ok	0x3DC	established
+fCh7uDxLklaY8sQGcF.cs	2205	ok	0x3F6	fin-wait-1
+fCh7uDxLklaY8sQGcF.cs	2206	ok	0x40E	fin-wait-2
+fCh7uDxLklaY8sQGcF.cs	2207	ok	0x426	close-wait
+fCh7uDxLklaY8sQGcF.cs	2208	ok	0x43E	closing
+fCh7uDxLklaY8sQGcF.cs	2209	ok	0x450	last-ack
+fCh7uDxLklaY8sQGcF.cs	2210	ok	0x464	time-wait
+fCh7uDxLklaY8sQGcF.cs	2211	ok	0x47A	delete-tcb
+fCh7uDxLklaY8sQGcF.cs	2228	ok	0x37A	unknown
+iv7VBsjI8muRaeK8cVn.cs	318	ok	0x2DF2	选择经典版存储位置，将使用 ChronalClassic 专属子目录
+iv7VBsjI8muRaeK8cVn.cs	1853	ok	0x1302	经典版启动：
+iv7VBsjI8muRaeK8cVn.cs	1853	ok	0xD20	 · 
+iv7VBsjI8muRaeK8cVn.cs	2123	ok	0x13AA	尚未选择已安装客户端
+iv7VBsjI8muRaeK8cVn.cs	2123	ok	0x1396	已选版本：
+iv7VBsjI8muRaeK8cVn.cs	2123	ok	0x13A4	
+
+iv7VBsjI8muRaeK8cVn.cs	2183	ok	0x1410	下载 / 更新
+iv7VBsjI8muRaeK8cVn.cs	2191	ok	0x13F8	继续下载
+iv7VBsjI8muRaeK8cVn.cs	2203	ok	0x1382	基岩版
+iv7VBsjI8muRaeK8cVn.cs	2203	ok	0x138C	经典版
+iv7VBsjI8muRaeK8cVn.cs	2231	ok	0x1404	重试下载
+iv7VBsjI8muRaeK8cVn.cs	2235	ok	0x1312	等待检查官方版本
+iv7VBsjI8muRaeK8cVn.cs	2239	ok	0x1352	版本标称大小：
+iv7VBsjI8muRaeK8cVn.cs	2268	ok	0x13E2	已处理 
+iv7VBsjI8muRaeK8cVn.cs	2270	ok	0x13EE	 / 
+iv7VBsjI8muRaeK8cVn.cs	2274	ok	0xD20	 · 
+iv7VBsjI8muRaeK8cVn.cs	2275	ok	0x13D2	0.0
+iv7VBsjI8muRaeK8cVn.cs	2276	ok	0x13DC	%
+iv7VBsjI8muRaeK8cVn.cs	2284	ok	0x13C2	尚无下载进度
+iv7VBsjI8muRaeK8cVn.cs	2289	ok	0x13D2	0.0
+iv7VBsjI8muRaeK8cVn.cs	2290	ok	0x13DC	%
+iv7VBsjI8muRaeK8cVn.cs	2382	ok	0x142E	 GiB
+iv7VBsjI8muRaeK8cVn.cs	2398	ok	0x1422	0.00
+iv7VBsjI8muRaeK8cVn.cs	2425	ok	0x13D2	0.0
+iv7VBsjI8muRaeK8cVn.cs	2429	ok	0xD8E	 MiB
+iv7VBsjI8muRaeK8cVn.cs	2437	ok	0x13D2	0.0
+iv7VBsjI8muRaeK8cVn.cs	2463	ok	0xD82	 KiB
+iv7VBsjI8muRaeK8cVn.cs	2859	ok	0x143A	开始下载后才会创建客户端存储目录
+iv7VBsjI8muRaeK8cVn.cs	2862	ok	0x145E	explorer.exe
+iv7VBsjI8muRaeK8cVn.cs	2941	ok	0x147A	OpenFolder_Click
+iv7VBsjI8muRaeK8cVn.cs	2941	ok	0x149E	D:\Dev\winui\ACCOUNT\Mahiro-Account\Features\ClassicLaunch\Views\ClassicDownloadsPage.xaml.cs
+iv7VBsjI8muRaeK8cVn.cs	3006	ok	0x1260	classic_launch
+iv7VBsjI8muRaeK8cVn.cs	3061	id-0xFFFFEAA2-not-in-tsv	-662046383 ^ 0x66C7D7A0 ^ _Module__71380637_e598_4a57_acca_ae77afe4f1b	
+iv7VBsjI8muRaeK8cVn.cs	3446	ok	0x1302	经典版启动：
+iv7VBsjI8muRaeK8cVn.cs	3446	ok	0xD20	 · 
+k67sp4ZtomWsuEItWfW.cs	612	ok	0x2E86	home
+k67sp4ZtomWsuEItWfW.cs	754	ok	0x2E92	RefreshAsync
+k67sp4ZtomWsuEItWfW.cs	754	ok	0x2EAE	D:\Dev\winui\ACCOUNT\Mahiro-Account\Features\ClassicLaunch\Views\ClassicPageSession.cs
+k67sp4ZtomWsuEItWfW.cs	1432	ok	0x1CEC	RunAsync
+k67sp4ZtomWsuEItWfW.cs	1432	ok	0x2EAE	D:\Dev\winui\ACCOUNT\Mahiro-Account\Features\ClassicLaunch\Views\ClassicPageSession.cs
+qiPowfLrI8h0QeonOQ0X.cs	233	ok	0x30B8	QCLZ
+qiPowfLrI8h0QeonOQ0X.cs	453	ok	0x30B8	QCLZ
+qiPowfLrI8h0QeonOQ0X.cs	614	ok	0x30B8	QCLZ
+qiPowfLrI8h0QeonOQ0X.cs	622	ok	0x30B8	QCLZ
+qiPowfLrI8h0QeonOQ0X.cs	772	ok	0x30C4	Load 
+qiPowfLrI8h0QeonOQ0X.cs	1715	ok	0x3062	d9p3GGL4PrEmO74tkLnk.jfhtRuL4xLB3LUHM1DIr

@@ -1,0 +1,83 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <NoWarn>CS0108;CS0114;CS0169;CS0219;CS0414;CS0618;CS0649;CS1591;CS8981;CS7022;CS0162;CS0252;CS0253;CS0660;CS0661;CS0067;CS1998;CS4014;CS8632;CS0168;CS0219;CS0062;CS0619</NoWarn>
+    <ErrorOnDuplicateAssemblyAttributes>false</ErrorOnDuplicateAssemblyAttributes>
+    <Deterministic>false</Deterministic>
+    <AssemblyName>Mahiro.Security</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="_removed_generated/**/*.cs" />
+    <Reference Include="BouncyCastle.Cryptography"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\BouncyCastle.Cryptography.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Chronal.Security.Native"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Chronal.Security.Native.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.Common"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.Common.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Animations"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Animations.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Controls.Primitives"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Controls.Primitives.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Controls.SettingsControls"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Controls.SettingsControls.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Converters"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Converters.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Extensions"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Extensions.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Helpers"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Helpers.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Media"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Media.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.WinUI.Triggers"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\CommunityToolkit.WinUI.Triggers.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Iced"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Iced.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Markdig"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Markdig.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Graphics.Canvas.Interop"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Graphics.Canvas.Interop.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Graphics.Canvas"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Graphics.Canvas.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Graphics.Imaging.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Graphics.Imaging.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.InteractiveExperiences.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.InteractiveExperiences.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.ML.OnnxRuntime"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.ML.OnnxRuntime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Security.Authentication.OAuth.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Security.Authentication.OAuth.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Web.WebView2.Core.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Web.WebView2.Core.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Web.WebView2.Core"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Web.WebView2.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Win32.SystemEvents"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Win32.SystemEvents.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.WinUI"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.WinUI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AI.ContentSafety.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AI.ContentSafety.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AI.Foundation.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AI.Foundation.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AI.Imaging.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AI.Imaging.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AI.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AI.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AI.Text.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AI.Text.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AI.Video.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AI.Video.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AppLifecycle.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AppLifecycle.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AppNotifications.Builder.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AppNotifications.Builder.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.AppNotifications.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.AppNotifications.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.ApplicationModel.Background.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.ApplicationModel.Background.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.ApplicationModel.Background.UniversalBGTask"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.ApplicationModel.Background.UniversalBGTask.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.ApplicationModel.DynamicDependency.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.ApplicationModel.Resources.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.ApplicationModel.Resources.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.BadgeNotifications.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.BadgeNotifications.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Foundation.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Foundation.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Management.Deployment.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Management.Deployment.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Media.Capture.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Media.Capture.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.PushNotifications.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.PushNotifications.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.SDK.NET"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.SDK.NET.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Security.AccessControl.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Security.AccessControl.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Storage.Pickers.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Storage.Pickers.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Storage.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Storage.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.System.Power.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.System.Power.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.System.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.System.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Windows.Widgets.Projection"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.Windows.Widgets.Projection.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.WindowsAppRuntime.Bootstrap.Net"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.WindowsAppRuntime.Bootstrap"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Microsoft.WindowsAppRuntime.Bootstrap.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="QRCoder"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\QRCoder.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SharpCompress"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\SharpCompress.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SixLabors.ImageSharp"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\SixLabors.ImageSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Snappier"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\Snappier.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="System.CodeDom"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\System.CodeDom.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="System.Drawing.Common"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\System.Drawing.Common.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="System.Management"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\System.Management.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="System.Numerics.Tensors"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\System.Numerics.Tensors.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="System.Security.Cryptography.ProtectedData"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\System.Security.Cryptography.ProtectedData.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="WebView2Loader"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\WebView2Loader.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="WinRT.Runtime"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\WinRT.Runtime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="ZstdSharp"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\ZstdSharp.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="onnxruntime"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\onnxruntime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="onnxruntime_providers_shared"><HintPath>D:\Work\deobf\Chronal-crk-release\work\Chronal\onnxruntime_providers_shared.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

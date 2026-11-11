@@ -1,0 +1,136 @@
+[parse] files=211 YoQLhoegTpw call sites=461 distinct-field-call-sites=461 literal-only=0 module-fields-with-literal-init=0
+[parse] distinct module fields referenced=62
+[load] ok: Chronal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loc=D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\strtmp\Chronal.dll
+[restore] moved loaded image to D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\strtmp\Chronal.dll.loaded and wrote pristine D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\strtmp\Chronal.dll
+[types] total=1814
+[engine] qS8vkpL43FlTMgcj0rgs.g9MiPrL41bvmHLMo2Exb (asm=D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\strtmp\Chronal.dll)
+[module] <Module>{71380637-e598-4a57-acca-ae77afe4f1b2} int-instance-fields=126
+[engine] method Cw1LhDMIACq() -> Void
+[engine] method XBZLhW9oDYR() -> Void
+[engine] method YoQLhoegTpw(Int32) -> String
+[engine] method EQTLhG7rRhl() -> Void
+[cctor] engine: body len=335 maxStack=4 locals=0
+[cctor] module: body len=138 maxStack=3 locals=1
+[init] engine cctor ok (g9MiPrL41bvmHLMo2Exb)
+[init] EQTLhG7rRhl: ok
+[init] XBZLhW9oDYR: ok
+[init] module cctor ok (<Module>{71380637-e598-4a57-acca-ae77afe4f1b2})
+[module] static instance field m_14bf68bee48c42698f3c6606c230b1db: <Module>{71380637-e598-4a57-acca-ae77afe4f1b2}
+[module] m_14bf68bee48c42698f3c6606c230b1db = <Module>{71380637-e598-4a57-acca-ae77afe4f1b2}
+[module] instance=ok
+[field] m_1282ca3a3b4d42dea9c5c692937e35bc = 0x245F327D (runtime)
+[field] m_6d6b99fc4578413f8bc3bdf9db0e7260 = 0x5FC5B3EE (runtime)
+[field] m_ec9f1bd7108f411daeb83b57baf2dba0 = 0x745BB38C (runtime)
+[field] m_1580feae44ff487ab78d80df31c471c0 = 0x6ABD3821 (runtime)
+[field] m_7ef2723341c74c2b88836c43256b27b6 = 0x3E5BACFC (runtime)
+[field] m_bd754e211a3740b7abeee191b9ceae68 = 0x13DC0579 (runtime)
+[field] m_e8864409e70b4d87b4c6598763ad15be = 0x17F21744 (runtime)
+[field] m_dabc6698d5764018a5f86ef3b5a7871e = 0x2446D476 (runtime)
+[field] m_1e22fe50e3d646ca9b01633c735c9082 = 0x71ABF779 (runtime)
+[field] m_4783bfa33d264997aac915e5e739dc84 = 0x453638CD (runtime)
+[field] m_2aab0405e3774254ad8ff3552d808a1d = 0x0DF79889 (runtime)
+[field] m_30453b5c95424721b20dac45933b18fc = 0x40CAB6BB (runtime)
+[field] m_a7be2a0b610d44259bd8ade7bca91da3 = 0x691E61C3 (runtime)
+[field] m_4f82b5c32b3f4f0289c9a252a3907b21 = 0x144D91F9 (runtime)
+[field] m_f981d20d38124e3ab94f0d411fda50cf = 0x273EF118 (runtime)
+[field] m_3d9d86761de84aa48245c594db282bdf = 0x1274FA10 (runtime)
+[field] m_6143552ba66645398402f7404618079f = 0x51B0A1DB (runtime)
+[field] m_401ab1a410ca4fdcae9d2ecf627c5703 = 0x13F18972 (runtime)
+[field] m_09be964badeb4066912116bbb7cb20e9 = 0x16128F3F (runtime)
+[field] m_f9510a76595941f880645fdc764944eb = 0x19E8E260 (runtime)
+[field] m_5144ebdc507c41fb87d88fdce3dc76e9 = 0x7347602A (runtime)
+[field] m_cb74c857a9564cc0b30907ecfe1e0cdf = 0x15354821 (runtime)
+[field] m_8cd7f54b623a4d42b1a5e008c75a22ed = 0x15006B9D (runtime)
+[field] m_7648938319564190ac26c6ec3b0a6621 = 0x415A0219 (runtime)
+[field] m_3416b7a32c7341febcabc34f89028832 = 0x219E1657 (runtime)
+[field] m_9a1f67b15040430199ec9dc1289e168b = 0x423F49C3 (runtime)
+[field] m_5616e31a21b646f69463de8959779c49 = 0x71B48FB1 (runtime)
+[field] m_2ee4c54a6c424cb680cd9d0811cd1011 = 0x52437048 (runtime)
+[field] m_ff96c054b9a547fc83bea3daf4a435ff = 0x70D23D32 (runtime)
+[field] m_b45a6b8459fb4961b1724a2890d79f3a = 0x540F7E4A (runtime)
+[field] m_a39b60a5f46a44329f1ae7a5ef50ae96 = 0x3BC4E62E (runtime)
+[field] m_5e5cf2db569941efa91d919db7fefba0 = 0x4067369C (runtime)
+[field] m_56220e0912894bf29c75280f6503f965 = 0x5A73A2EB (runtime)
+[field] m_b6e1b24306c5435497967d798ce571fb = 0x01F2A2D7 (runtime)
+[field] m_35f00f496d71423193427920cdcc22f1 = 0x31012DF7 (runtime)
+[field] m_d2995c01469b4ef28b5784f7cbf606e2 = 0x43BC1867 (runtime)
+[field] m_07c1f539d4f94d95bde09a0fba07dbbc = 0x563CB6D2 (runtime)
+[field] m_916ae56933ff4374af011c79e3cb023a = 0x62F478BA (runtime)
+[field] m_7bc84b0f9b2d4d968eda9f4e194ba82d = 0x41B1C453 (runtime)
+[field] m_f1dd9923a6bd42d5867c8e2e591d3e3b = 0x316CC1CC (runtime)
+[field] m_3054c4fc69b94a37b21ac42c2099175a = 0x36473EEC (runtime)
+[field] m_0b81b3b6b3bc4c4a8075444d576cb8ec = 0x69690A53 (runtime)
+[field] m_80fb217b158b48d3aa902bde1388a3c9 = 0x47259979 (runtime)
+[field] m_e1a4b1278f5749c28fff394e2932a022 = 0x2FD3A3E4 (runtime)
+[field] m_31a06ac266364bee8fef51fc97395192 = 0x086C2747 (runtime)
+[field] m_3a9f60458a5840868f1b224a8d25b071 = 0x705138A3 (runtime)
+[field] m_06501b7bae1743aa8336fe70312492d7 = 0x439B2721 (runtime)
+[field] m_2ea097de099140f192d12c8111241f4e = 0x59FB4898 (runtime)
+[field] m_db2c7dd1aabc4c9a97a36e710c0128ab = 0x2E2BD372 (runtime)
+[field] m_0c88e6c08eaf4e998e8fdd2c544cee2e = 0x522523F9 (runtime)
+[field] m_9925520c809e49e19c0340f5f2a4c15c = 0x32F21B42 (runtime)
+[field] m_b8376d7b20c44b95a06e50039002465d = 0x7BBD3FD3 (runtime)
+[field] m_9c15dc17ae4e48a5bd629d141b0ebe29 = 0x2A26545A (runtime)
+[field] m_c3a1ed3f1b10415883902def95e1be62 = 0x76324D11 (runtime)
+[field] m_28a8309f77124973ab9263f59df1f564 = 0x1835115D (runtime)
+[field] m_499faaea7a6445f1af0f623e48ebbb18 = 0x6EFE44BD (runtime)
+[field] m_f102566966284916b14bc7efa63c0f5e = 0x26BD380C (runtime)
+[field] m_20242fceb1c648009846fc096f5b9270 = 0x2596D75F (runtime)
+[field] m_b84585b58c384b95b0e0b94c466ccc55 = 0x24D10BE0 (runtime)
+[field] m_4fafd75e484e4b31a74460f9f0d54951 = 0x518A8ADC (runtime)
+[field] m_dbb7d0b4e7ca46959ea177dcc91c1f0e = 0x2EA35C24 (runtime)
+[field] m_5abcb08dd0ae4b88988bbb89131b0cab = 0x26378FCA (runtime)
+[ids] distinct-evaluable=345 unevaluable-sites=0 total-sites=461
+[probe] YoQLhoegTpw(0) => status=ok text={{ type = {0}, requestId = {1} }}
+[invoke] distinct ids=345 ok=343 null=0 empty=0 failed=2
+[union] loaded 49 historical rows from D:/Work/deobf/Chronal-crk-release/work/out/chronal-strings-v7.tsv
+[union] id 0x00001CBE already in history, merging sites
+[union] id 0x000006C6 already in history, merging sites
+[union] id 0x000007F6 already in history, merging sites
+[union] id 0x0000080A already in history, merging sites
+[union] id 0x00000828 already in history, merging sites
+[union] id 0x00000848 already in history, merging sites
+[union] id 0x00000880 already in history, merging sites
+[union] id 0x00000872 already in history, merging sites
+[union] id 0x000008A0 already in history, merging sites
+[union] id 0x000008C2 already in history, merging sites
+[union] id 0x00000D20 already in history, merging sites
+[union] id 0x00001710 already in history, merging sites
+[union] id 0x00001736 already in history, merging sites
+[union] id 0x0000174A already in history, merging sites
+[union] id 0x0000176C already in history, merging sites
+[union] id 0x00001302 already in history, merging sites
+[union] id 0x00001260 already in history, merging sites
+[union] id 0x00001280 already in history, merging sites
+[union] id 0x0000037A already in history, merging sites
+[union] id 0x0000038C already in history, merging sites
+[union] id 0x0000039C already in history, merging sites
+[union] id 0x000003AC already in history, merging sites
+[union] id 0x000003C0 already in history, merging sites
+[union] id 0x000003DC already in history, merging sites
+[union] id 0x000003F6 already in history, merging sites
+[union] id 0x0000040E already in history, merging sites
+[union] id 0x00000426 already in history, merging sites
+[union] id 0x0000043E already in history, merging sites
+[union] id 0x00000450 already in history, merging sites
+[union] id 0x00000464 already in history, merging sites
+[union] id 0x0000047A already in history, merging sites
+[union] id 0x0000142E already in history, merging sites
+[union] id 0x0000095A already in history, merging sites
+[union] id 0x00000982 already in history, merging sites
+[union] id 0x000009C6 already in history, merging sites
+[union] id 0x00000A86 already in history, merging sites
+[union] id 0x00000AC0 already in history, merging sites
+[union] id 0x00000B14 already in history, merging sites
+[union] id 0x00000E02 already in history, merging sites
+[union] id 0x00000D9A already in history, merging sites
+[union] id 0x00000DA4 already in history, merging sites
+[union] id 0x00000DC8 already in history, merging sites
+[union] id 0x00000E2E already in history, merging sites
+[union] id 0x00000F84 already in history, merging sites
+[union] id 0x00000D2A already in history, merging sites
+[union] id 0x00000D76 already in history, merging sites
+[union] id 0x00000CA6 already in history, merging sites
+[union] id 0x00000CB8 already in history, merging sites
+[tsv] written D:\Work\deobf\Chronal-crk-release\work\out\chronal-strings-v9.tsv rows=346 (history=49 new=297)
+[diag] D:/Work/deobf/Chronal-crk-release/full/src-work9b/Chronal/strtmp/diag.txt

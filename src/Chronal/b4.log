@@ -1,0 +1,17 @@
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\fCh7uDxLklaY8sQGcF.cs(661,36): error CS0050: 可访问性不一致: 返回类型“fCh7uDxLklaY8sQGcF.jOPQML9SinQpom4MDxY”的可访问性低于方法“fCh7uDxLklaY8sQGcF.RRT2ECHBR(int)” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\UTceUuLofwXEp4GdC3ht.cs(13529,17): error CS0106: 修饰符“new”对该项无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\UTceUuLofwXEp4GdC3ht.cs(16665,14): error CS0106: 修饰符“new”对该项无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\HwidSpooferFieldItem.cs(10,46): error CS0535: “HwidSpooferFieldItem”不实现接口成员“INotifyPropertyChanged.PropertyChanged” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\PaymentBannerIndicator.cs(11,46): error CS0535: “PaymentBannerIndicator”不实现接口成员“INotifyPropertyChanged.PropertyChanged” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\UTceUuLofwXEp4GdC3ht.cs(31436,14): error CS0106: 修饰符“new”对该项无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\BedrockInstanceCardViewModel.cs(18,52): error CS0535: “BedrockInstanceCardViewModel”不实现接口成员“INotifyPropertyChanged.PropertyChanged” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\UTceUuLofwXEp4GdC3ht.cs(33736,14): error CS0106: 修饰符“new”对该项无效 [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\JavaSkinCardViewModel.cs(12,45): error CS0535: “JavaSkinCardViewModel”不实现接口成员“INotifyPropertyChanged.PropertyChanged” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\BedrockMaterialPackViewModel.cs(15,52): error CS0535: “BedrockMaterialPackViewModel”不实现接口成员“INotifyPropertyChanged.PropertyChanged” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\BedrockSkinCardViewModel.cs(17,48): error CS0535: “BedrockSkinCardViewModel”不实现接口成员“INotifyPropertyChanged.PropertyChanged” [D:\Work\deobf\Chronal-crk-release\full\src-work9b\Chronal\Chronal.csproj]
+
+生成失败。
+    9 个警告
+    11 个错误
+
+已用时间 00:00:06.54

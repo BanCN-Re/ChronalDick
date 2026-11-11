@@ -1,0 +1,424 @@
+using System;
+using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using By1SFsLobKQOZCdh5qRg;
+using Microsoft.UI.Xaml.Markup;
+using WinRT;
+using WinRT.ChronalVtableClasses;
+using qS8vkpL43FlTMgcj0rgs;
+
+namespace Mahiro_Account.Chronal_XamlTypeInfo;
+
+[GeneratedCode("Microsoft.UI.Xaml.Markup.Compiler", " 3.0.0.2606")]
+[DebuggerNonUserCode]
+[WinRTRuntimeClassName("Microsoft.UI.Xaml.Markup.IXamlType")]
+[WinRTExposedType(typeof(Mahiro_Account_Chronal_XamlTypeInfo_XamlSystemBaseTypeWinRTTypeDetails))]
+internal class XamlUserType : XamlSystemBaseType, IXamlType
+{
+	private XamlTypeInfoProvider _provider;
+
+	private IXamlType _baseType;
+
+	private IXamlType _boxedType;
+
+	private bool _isArray;
+
+	private bool _isMarkupExtension;
+
+	private bool _isBindable;
+
+	private bool _isReturnTypeStub;
+
+	private bool _isLocalType;
+
+	private string _contentPropertyName;
+
+	private string _itemTypeName;
+
+	private string _keyTypeName;
+
+	private Dictionary<string, string> _memberNames;
+
+	private Dictionary<string, object> _enumValues;
+
+	public override IXamlType BaseType
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _baseType;
+		}
+	}
+
+	public override bool IsArray
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _isArray;
+		}
+	}
+
+	public override bool IsCollection
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return CollectionAdd != null;
+		}
+	}
+
+	public override bool IsConstructible
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return Activator != null;
+		}
+	}
+
+	public override bool IsDictionary
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return DictionaryAdd != null;
+		}
+	}
+
+	public override bool IsMarkupExtension
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _isMarkupExtension;
+		}
+	}
+
+	public override bool IsBindable
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _isBindable;
+		}
+	}
+
+	public override bool IsReturnTypeStub
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _isReturnTypeStub;
+		}
+	}
+
+	public override bool IsLocalType
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _isLocalType;
+		}
+	}
+
+	public override IXamlType BoxedType
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _boxedType;
+		}
+	}
+
+	public override IXamlMember ContentProperty
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _provider.GetMemberByLongName(_contentPropertyName);
+		}
+	}
+
+	public override IXamlType ItemType
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _provider.GetXamlTypeByName(_itemTypeName);
+		}
+	}
+
+	public override IXamlType KeyType
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			return _provider.GetXamlTypeByName(_keyTypeName);
+		}
+	}
+
+	[field: CompilerGenerated]
+	public Activator Activator
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		get;
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		set;
+	}
+
+	[field: CompilerGenerated]
+	public StaticInitializer StaticInitializer
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		get;
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		set;
+	}
+
+	[field: CompilerGenerated]
+	public AddToCollection CollectionAdd
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		get;
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		set;
+	}
+
+	[field: CompilerGenerated]
+	public AddToDictionary DictionaryAdd
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		get;
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		set;
+	}
+
+	[field: CompilerGenerated]
+	public CreateFromStringMethod CreateFromStringMethod
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		get;
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		set;
+	}
+
+	[field: CompilerGenerated]
+	public BoxInstanceMethod BoxInstance
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		get;
+		[MethodImpl((MethodImplOptions)8)]
+		[CompilerGenerated]
+		set;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public XamlUserType(XamlTypeInfoProvider provider, string fullName, global::System.Type fullType, IXamlType baseType)
+		: base(fullName, fullType)
+	{
+		_provider = provider;
+		_baseType = baseType;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public override IXamlMember GetMember(string name)
+	{
+		if (_memberNames == null)
+		{
+			return null;
+		}
+		string longMemberName = default(string);
+		if (_memberNames.TryGetValue(name, out longMemberName))
+		{
+			return _provider.GetMemberByLongName(longMemberName);
+		}
+		return null;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public override object ActivateInstance()
+	{
+		return Activator();
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public override void AddToMap(object instance, object key, object item)
+	{
+		DictionaryAdd(instance, key, item);
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public override void AddToVector(object instance, object item)
+	{
+		CollectionAdd(instance, item);
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public override void RunInitializer()
+	{
+		StaticInitializer();
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public override object CreateFromString(string input)
+	{
+		//IL_00aa: Unknown result type (might be due to invalid IL or missing references)
+		//IL_00af: Unknown result type (might be due to invalid IL or missing references)
+		//IL_012f: Unknown result type (might be due to invalid IL or missing references)
+		//IL_0160: Unknown result type (might be due to invalid IL or missing references)
+		if (BoxedType != null)
+		{
+			return BoxInstance(BoxedType.CreateFromString(input));
+		}
+		if (CreateFromStringMethod != null)
+		{
+			return CreateFromStringMethod(input);
+		}
+		if (_enumValues != null)
+		{
+			long num = 0L;
+			string[] array = input.Split(',', (StringSplitOptions)0);
+			object obj = default(object);
+			foreach (string text in array)
+			{
+				long num2 = 0L;
+				try
+				{
+					if (_enumValues.TryGetValue(text.Trim(), out obj))
+					{
+						num2 = Convert.ToInt64(obj);
+					}
+					else
+					{
+						try
+						{
+							num2 = Convert.ToInt64(text.Trim());
+						}
+						catch (FormatException)
+						{
+							var enumerator = _enumValues.Keys.GetEnumerator();
+							try
+							{
+								while (enumerator.MoveNext())
+								{
+									string current = enumerator.Current;
+									if (string.Compare(text.Trim(), current, (StringComparison)5) == 0 && _enumValues.TryGetValue(current.Trim(), out obj))
+									{
+										num2 = Convert.ToInt64(obj);
+										break;
+									}
+								}
+							}
+							finally
+							{
+								((global::System.IDisposable)enumerator/*cast due to .constrained prefix*/).Dispose();
+							}
+						}
+					}
+					num |= num2;
+				}
+				catch (FormatException)
+				{
+					throw new ArgumentException(input, base.FullName);
+				}
+			}
+			return Convert.ChangeType((object)num, global::System.Enum.GetUnderlyingType(base.UnderlyingType));
+		}
+		throw new ArgumentException(input, base.FullName);
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetContentPropertyName(string contentPropertyName)
+	{
+		_contentPropertyName = contentPropertyName;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetIsArray()
+	{
+		_isArray = true;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetIsMarkupExtension()
+	{
+		_isMarkupExtension = true;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetIsBindable()
+	{
+		_isBindable = true;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetIsReturnTypeStub()
+	{
+		_isReturnTypeStub = true;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetIsLocalType()
+	{
+		_isLocalType = true;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetItemTypeName(string itemTypeName)
+	{
+		_itemTypeName = itemTypeName;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetKeyTypeName(string keyTypeName)
+	{
+		_keyTypeName = keyTypeName;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void SetBoxedType(IXamlType boxedType)
+	{
+		_boxedType = boxedType;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public object BoxType<T>(object instance) where T : struct
+	{
+		return (T)instance;
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void AddMemberName(string shortName)
+	{
+		if (_memberNames == null)
+		{
+			_memberNames = new Dictionary<string, string>();
+		}
+		_memberNames.Add(shortName, base.FullName + "." + shortName);
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void AddEnumValue(string name, object value)
+	{
+		if (_enumValues == null)
+		{
+			_enumValues = new Dictionary<string, object>();
+		}
+		_enumValues.Add(name, value);
+	}
+
+}

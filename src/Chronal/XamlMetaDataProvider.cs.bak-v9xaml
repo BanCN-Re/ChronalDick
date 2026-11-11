@@ -1,0 +1,63 @@
+using System;
+using System.CodeDom.Compiler;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using By1SFsLobKQOZCdh5qRg;
+using Microsoft.UI.Xaml.Markup;
+using WinRT;
+using WinRT.ChronalVtableClasses;
+using Windows.Foundation.Metadata;
+using qS8vkpL43FlTMgcj0rgs;
+
+namespace Mahiro_Account.Chronal_XamlTypeInfo;
+
+[WinRTRuntimeClassName("Microsoft.UI.Xaml.Markup.IXamlMetadataProvider")]
+[GeneratedCode("Microsoft.UI.Xaml.Markup.Compiler", " 3.0.0.2606")]
+[DebuggerNonUserCode]
+[WinRTExposedType(typeof(Mahiro_Account_Chronal_XamlTypeInfo_XamlMetaDataProviderWinRTTypeDetails))]
+public sealed class XamlMetaDataProvider : IXamlMetadataProvider
+{
+	private XamlTypeInfoProvider _provider;
+
+	private XamlTypeInfoProvider Provider
+	{
+		[MethodImpl((MethodImplOptions)8)]
+		get
+		{
+			if (_provider == null)
+			{
+				_provider = (XamlTypeInfoProvider)new XamlTypeInfoProvider();
+			}
+			return _provider;
+		}
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	[DefaultOverload]
+	public IXamlType GetXamlType(global::System.Type type)
+	{
+		return Provider.GetXamlTypeByType(type);
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public IXamlType GetXamlType(string fullName)
+	{
+		return Provider.GetXamlTypeByName(fullName);
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public XmlnsDefinition[] GetXmlnsDefinitions()
+	{
+		return (XmlnsDefinition[])(object)new XmlnsDefinition[0];
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	public void XamlMetaDataProvider()
+	{
+	}
+
+	[MethodImpl((MethodImplOptions)8)]
+	private static void _cctor()
+	{
+	}
+}
